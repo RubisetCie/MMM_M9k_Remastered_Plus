@@ -1,6 +1,6 @@
 # M9k Remastered: Plus
 
-Workshop Link: TBD
+Workshop Link: https://steamcommunity.com/sharedfiles/itemedittext/?id=2215998262
 
 'Plus' is an extension for M9k Remastered. It is NOT compatible with Legacy M9k packs.
 
