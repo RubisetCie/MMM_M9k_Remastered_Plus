@@ -2,5 +2,4 @@
 {
 	"$baseTexture" "models\weapons\v_models\darkeh.twinke.g36\sup"
 	"$bumpmap" "models\weapons\v_models\darkeh.twinke.g36\sup.norm"
-	"$normalmapalphaenvmapmask" 1
 }
