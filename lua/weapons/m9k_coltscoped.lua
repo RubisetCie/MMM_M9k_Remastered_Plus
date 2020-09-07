@@ -27,6 +27,7 @@ SWEP.Primary.SpreadBefore = SWEP.Primary.Spread
 
 SWEP.ScopeScale = 0.5
 SWEP.ReticleScale = 0.6
+SWEP.HasZoomStages = false -- This weapon does not have variable zooms (No zoom stages)
 
 function SWEP:Deploy()
 	if SERVER and game.SinglePlayer() then self:CallOnClient("Deploy") end -- Make sure that it runs on the CLIENT!
