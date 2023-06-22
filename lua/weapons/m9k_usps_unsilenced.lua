@@ -2,7 +2,7 @@ if not MMM_M9k_IsBaseInstalled then return end -- Make sure the base is installe
 
 SWEP.Base = "bobs_gun_base"
 SWEP.Category = "M9kR+ Pistols"
-SWEP.PrintName = "HK USP Silenced"
+SWEP.PrintName = "HK USP"
 
 SWEP.Slot = 1
 SWEP.Spawnable = true
@@ -35,8 +35,7 @@ SWEP.tReloadDynamic = {
 	}
 }
 
-SWEP.Primary.Sound = "weapons/navaro's usp/usp1.wav"
-SWEP.Primary.SoundVolume = 65 -- Silenced!
+SWEP.Primary.Sound = "weapons/navaro's usp/usp_unsil-1.wav"
 
 SWEP.Primary.RPM = 335
 SWEP.Primary.ClipSize = 15
@@ -50,11 +49,6 @@ SWEP.Primary.Spread = .019
 SWEP.Primary.Ammo = "pistol"
 
 SWEP.IronSightsPos = Vector(-1.95,0,0.77)
-
-SWEP.iIdleAnim = ACT_VM_IDLE_SILENCED
-SWEP.iDeployAnim = ACT_VM_DRAW_SILENCED
-SWEP.iPrimaryAnim = ACT_VM_PRIMARYATTACK_SILENCED
-SWEP.iReloadAnim = ACT_VM_RELOAD_SILENCED
 
 SWEP.LegacyBalance = {
 	Primary = {
