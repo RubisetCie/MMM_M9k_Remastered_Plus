@@ -8,36 +8,23 @@
 
 M9k: Remastered is a massive improvement over the original M9k addons.
 
-We dumped the original code and then made new modern code for maximum performance.
+The original code was scrapped and replaced with new modern code for maximum performance.
 
-⠀
+<br>
 
-This addon includes all original plus packs.
+This addon includes all original plus packs:
 
-( Pistols Plus, Rifles Plus, Shotguns Plus. )
+- Pistols plus, Rifles plus, Shotguns plus.
 
-⠀
+This addon can be used exclusively for the resources:
 
-This addon can be used exclusively for the resources.
-
-( Models, materials, sounds, etc.. )
-
-⠀
-
-**For the best experience we recommend avoiding playing in Singleplayer.**
-**Start a Multiplayer session instead.**
-
-\> The addon was designed with Multiplayer in mind just like 99% of other addons.
-
-\> We made it compatible with Singleplayer, but you might run into issues.
+- Models, materials, sounds, etc..
 
 # Compatibility
 
 M9k: Remastered is **not** compatible with original/legacy M9k addons.
 
 Weapons and packs have to be coded specifically for M9k: Remastered to function properly.
-
-⠀
 
 **All non-M9k: Remastered packs have to be removed.**
 
@@ -47,7 +34,7 @@ Link to M9k Remastered: https://steamcommunity.com/sharedfiles/filedetails/?id=2
 
 This pack adds all weapons from the M9k+ (plus) expansion packs and have been ported, optimized, and fixed.
 
-Full Weapon list:
+Full weapon list:
 
 Weapon Name | Mod Link
 :--|:--
@@ -93,8 +80,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=749554285
 M9k+ Shotguns
 https://steamcommunity.com/sharedfiles/filedetails/?id=834520203
 
-Models, Materials, and Sounds are made by the Original Creator(s).
-
-*.lua and *.au3 files are made by me. MeteorTheLizard - https://www.meteorthelizard.com
+Models, materials, and sounds are made by the original creator(s).
 
 This project is licensed under the GPL-3.0 License. Only script files (*.lua and *.au3) fall under this license.
+
+MeteorTheLizard - https://www.meteorthelizard.com
