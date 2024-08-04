@@ -47,32 +47,32 @@ Weapon Name | Mod Link
 :--|:--
 AK-47-SD | https://gamebanana.com/skins/129161
 AK-74U | https://gamebanana.com/skins/108765
-FN FNC Police | https://gamebanana.com/skins/146504
-FW900k | https://gamebanana.com/skins/55658
-G36 Assault | https://gamebanana.com/skins/28619
-M16A4 | https://gamebanana.com/skins/115009
-M4A4 | https://gamebanana.com/skins/145110
-QBZ-97 | https://gamebanana.com/skins/135665
-Sturmgewehr 44 | https://gamebanana.com/skins/148558
-VZOR 58 | https://gamebanana.com/skins/135361
+Baikal MP-153 | https://gamebanana.com/skins/135350
 Bren Ten 9mm | https://gamebanana.com/skins/144431
 Colt 1911 Scoped | https://gamebanana.com/skins/144902
+FN FNC Police | https://gamebanana.com/skins/146504
+FN TPS | https://gamebanana.com/skins/129146
 FNP 45.Cal Advanced | https://gamebanana.com/skins/144321
+FW900k | https://gamebanana.com/skins/55658
+G36 Assault | https://gamebanana.com/skins/28619
 Glock 18 Drum Mag. | https://gamebanana.com/skins/19141
 Guardian Mini | https://gamebanana.com/skins/114251
 HK USP Silenced | https://gamebanana.com/skins/139502
 HK USP Un-silenced | https://gamebanana.com/skins/139502
-MR-96 | https://gamebanana.com/skins/134546
-Ruger Mk3 | https://gamebanana.com/skins/143829
-VP-90 | https://gamebanana.com/skins/134304
-Baikal MP-153 | https://gamebanana.com/skins/135350
-FN TPS | https://gamebanana.com/skins/129146
 KSG-12 | https://gamebanana.com/skins/142418
+M16A4 | https://gamebanana.com/skins/115009
 M3 Tactical | https://gamebanana.com/skins/30898
+M4A4 | https://gamebanana.com/skins/145110
 M97 Trench Gun | https://gamebanana.com/skins/148220
+MR-96 | https://gamebanana.com/skins/134546
+QBZ-97 | https://gamebanana.com/skins/135665
+Ruger Mk3 | https://gamebanana.com/skins/143829
 Serbu Super Shorty | https://gamebanana.com/skins/32807
 SPAS 12 Closed Stock | https://gamebanana.com/skins/117990
 SPAS 12 Silenced | https://gamebanana.com/skins/91588
+Sturmgewehr 44 | https://gamebanana.com/skins/148558
+VP-90 | https://gamebanana.com/skins/134304
+VZOR 58 | https://gamebanana.com/skins/135361
 
 # Credits
 
